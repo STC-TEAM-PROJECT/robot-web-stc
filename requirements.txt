@@ -1,4 +1,3 @@
 robotframework
-robotframework-requests
+seleniumLibrary
 robotframework-faker
-robotframework-jsonvalidator
