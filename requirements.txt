@@ -1,0 +1,3 @@
+robotframework
+seleniumLibrary
+robotframework-faker
